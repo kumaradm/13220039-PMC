@@ -1,2 +1,3 @@
 # 13220039-PMC
-Repo untuk mengumpulkan tugas
+Kumara Drestanto Mubarokkhan
+Setiap tugas ada di branch
